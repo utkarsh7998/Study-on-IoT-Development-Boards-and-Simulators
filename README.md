@@ -2,7 +2,7 @@ Question 1
 Comparative Study of IoT Development Boards: Perform a detailed comparative study of at least
 six different development boards used in the current IoT applications. Your study should at least cover
 the following aspects relevant to the boards:
-• Hardware details
+• Hardware details 
 • On board storage
 • Power consumption
 • Supported Operating systems
